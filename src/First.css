@@ -1,0 +1,16 @@
+#a2{
+    height: 700px;
+    width: 100%;
+    background-color: black;
+}
+#a3{
+    color: white;
+    font-weight: 1000;
+    font-size: xx-large;
+}
+.rot{
+    animation: rot 30s linear infinite;
+}
+@keyframes rot {
+    100%{transform: rotateZ(360deg);}
+}

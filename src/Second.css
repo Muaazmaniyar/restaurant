@@ -1,0 +1,16 @@
+#s1{
+    height: 450px;
+    width: 100%;
+    background-color: white;
+    display: flex;
+    padding-top: 60px;
+    padding-left: 40px;
+
+}
+#s2:hover{
+    background-color: orange;
+}
+#s2{
+     box-shadow: 0 0 5px rgba(0,0,0,.08); 
+     border: none;
+}
